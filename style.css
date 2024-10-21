@@ -1,0 +1,115 @@
+.bodyyy{
+    background-image: url(./imagw/Free-Download-Coffee-Wallpapers-High-Quality.jpg);
+    background-size: cover; 
+     height: 100%; 
+}
+
+
+
+.coff{
+    margin-left: 100px;
+    margin-top: 200px;
+    font-family: "Spicy Rice", serif;
+    color:blanchedalmond
+}
+.para{
+    width: 450px;
+    margin-top: 15px;
+    margin-left: 70px;
+    line-height: 17px;
+    color:ivory;
+}
+ .maam{
+    margin-left: 100px;
+    margin-top: 80px;
+   
+}
+.btn-btn-white{ 
+    background-color: burlywood;
+    padding: 15px;
+}
+.btn-btn-white:hover {
+    background-color:gray; /* Darker blue */
+    color: white; /* Ensure text is readable */
+    border-color: cornsilk;
+}
+.img-fluid{
+    width: 500px;
+    margin-top: 100px;
+    justify-content: space-between;
+}
+.par{
+    width: 450px;
+}
+#offer{
+    font-family:serif;
+    color: gray;
+
+}
+.gett{
+    font-family:serif;
+    color: gray;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+#gg{
+    color: gray;
+}
+.jj{
+    background-color: cornsilk;
+}
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+     /* Change to your desired color */
+    color: white; /* Change text color on hover */
+}
+ #lgin{
+    margin-left: 500px;
+  
+ }
+ #lgin:hover{
+    color: aliceblue;
+    text-decoration:underline;
+ }
+ .ff{
+    margin-left: 300px;
+ }
+#gggl{
+    margin-left: 100px;
+}
+#gggl:hover{
+   color: aliceblue;
+}
+ 
+ .bb{
+    flex-wrap: nowrap;
+ }
+ .cc{
+    flex-wrap: nowrap;
+ }
+ .dd{
+    width: 75px;
+ }
+ .ee{
+    background-color: darkgoldenrod;
+   
+ }
+ @media(max-width:480px) and (min-width:760px){
+    .bb{
+        flex-wrap: wrap;
+    }
+    .cc{
+        flex-wrap: wrap;
+    }
+    .ii{
+        flex-wrap: wrap;
+    }
+   
+     .bodyyy{
+        background-image: url(./imagw/coffee-logo-template-vector-icon-removebg-preview.png);
+        background-size: contain;
+     } 
+   
+        
+      
+ }
